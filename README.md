@@ -1,2 +1,2 @@
 # Git e GitHub - Markdown
-Repositário que aplicar os conhecimentos apredendidos sobre MarkDown
+Repositário que aplicar os conhecimentos apredendidos sobre MarkDown, atualizando Readme.
